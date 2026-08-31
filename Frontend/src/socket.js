@@ -1,3 +1,3 @@
-import { io } from "socket.io-client";
-const socket = io("http://localhost:4000");
-export default socket;
+import { io } from 'socket.io-client';
+// Đổi URL này sang link server render/vercel khi đưa lên host thật
+export const socket = io('https://banpicktest.onrender.com/');
