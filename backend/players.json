@@ -1,0 +1,7 @@
+[
+  { "id": "1", "name": "Ronaldo de Lima", "season": "ICON", "posGroup": "FW", "avatar": "https://fo4player.com/images/players/p1.png" },
+  { "id": "2", "name": "Ruud Gullit", "season": "ICON", "posGroup": "MF", "avatar": "https://fo4player.com/images/players/p2.png" },
+  { "id": "3", "name": "Paolo Maldini", "season": "ICON", "posGroup": "DF", "avatar": "https://fo4player.com/images/players/p3.png" },
+  { "id": "4", "name": "Thibaut Courtois", "season": "21UCL", "posGroup": "GK", "avatar": "https://fo4player.com/images/players/p4.png" },
+  { "id": "5", "name": "K. De Bruyne", "season": "23TY", "posGroup": "MF", "avatar": "https://fo4player.com/images/players/p5.png" }
+]
